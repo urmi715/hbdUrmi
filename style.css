@@ -1,0 +1,12 @@
+.card .text-container .wish:hover{
+    animation: myani 1s ease-in-out;
+}
+
+@keyframes myani{
+    0%{
+      
+    }
+    100%{
+        color: green;
+    }
+}
